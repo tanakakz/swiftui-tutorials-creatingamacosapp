@@ -40,6 +40,8 @@
 		36E3E3BB23E6E34600F2EFBC /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E3E3BA23E6E34600F2EFBC /* LandmarkList.swift */; };
 		36E3E3BD23E84E1C00F2EFBC /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E3E3BC23E84E1C00F2EFBC /* Filter.swift */; };
 		36E3E3BF23E9A17900F2EFBC /* NavigationMaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E3E3BE23E9A17900F2EFBC /* NavigationMaster.swift */; };
+		36E3E3C023EAF94E00F2EFBC /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394879229F1B3F00C47603 /* CircleImage.swift */; };
+		36E3E3C123EAF9AB00F2EFBC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B739487B229F1B6800C47603 /* MapView.swift */; };
 		9357B0942318808300826E1D /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9357B0922318808300826E1D /* Interface.storyboard */; };
 		9357B0962318808400826E1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9357B0952318808400826E1D /* Assets.xcassets */; };
 		9357B09D2318808400826E1D /* WatchLandmarks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 9357B09C2318808400826E1D /* WatchLandmarks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -850,7 +852,9 @@
 				36E3E3BD23E84E1C00F2EFBC /* Filter.swift in Sources */,
 				36E3E3A523E6BFB500F2EFBC /* Profile.swift in Sources */,
 				36E3E3A423E6BFB500F2EFBC /* Data.swift in Sources */,
+				36E3E3C123EAF9AB00F2EFBC /* MapView.swift in Sources */,
 				36E3E3A623E6BFB500F2EFBC /* Hike.swift in Sources */,
+				36E3E3C023EAF94E00F2EFBC /* CircleImage.swift in Sources */,
 				36E3E3BB23E6E34600F2EFBC /* LandmarkList.swift in Sources */,
 				36E3E37623E6BC1500F2EFBC /* AppDelegate.swift in Sources */,
 				36E3E3A323E6BFB500F2EFBC /* UserData.swift in Sources */,
